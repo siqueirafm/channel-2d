@@ -1,4 +1,15 @@
 cd ..
+
+mkdir bin
+mkdir lib
+
+cd data
+
+mkdir spcurves
+mkdir lineprogs
+
+cd ..
+
 cd src
 make all
 make lib
