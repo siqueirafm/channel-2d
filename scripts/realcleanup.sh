@@ -18,6 +18,10 @@ cd ..
 cd spcurves
 rm -rf *.spl
 cd ..
+
+rm -rf lineprogs
+rm -rf spcurves
+
 cd ..
 
 cd doc

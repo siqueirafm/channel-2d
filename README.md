@@ -8,12 +8,10 @@ inside the directory channel-2d, which contains the following:
 
 LICENSE.md
 README.md
-bin
 channel-2d
 channel-2d.xcodeproj
 data
 doc
-lib
 scripts
 src
 tst
