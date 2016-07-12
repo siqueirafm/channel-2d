@@ -21,8 +21,8 @@ make
 make clean
 cd ..
 
-cd doc
-doxygen config.dox
-cd ..
+#cd doc
+#doxygen config.dox
+#cd ..
 
 cd scripts
